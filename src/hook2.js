@@ -22,7 +22,7 @@ const useTab = (Initialtab, allTab) => {
   return {
     currentItem: allTab[currentIndex],
     changeItem: setcurrentIndex
-  };
+  };  
 };
 
 function Hook2() {
